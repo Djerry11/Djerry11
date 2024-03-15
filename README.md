@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a delivery app**
+
  
- 🌱 I’m currently learning **Flutter, React Native**
+ 🌱 I’m currently learning **Kotlin, GenAI**
 <!--
 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Djerry11/Djerry11/issues)** -->
 
