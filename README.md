@@ -12,7 +12,7 @@
  
 
  
- 🌱 I’m currently learning **Kotlin, GenAI**
+ 🌱 I’m currently learning **MERN STACK, ML, CV **
 <!--
 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Djerry11/Djerry11/issues)** -->
 
